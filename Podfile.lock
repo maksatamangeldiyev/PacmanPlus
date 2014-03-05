@@ -1,0 +1,15 @@
+PODS:
+  - CocoaAsyncSocket (7.3.4)
+  - cocos2d (2.1):
+    - cocos2d/CocosDenshion
+  - cocos2d/CocosDenshion (2.1)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - cocos2d
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 534d09416f992fd51efb23f534742ce70b3a7999
+  cocos2d: 1ee107ccb03edf8f72f846e87b7d71c96fbfe6bc
+
+COCOAPODS: 0.29.0
